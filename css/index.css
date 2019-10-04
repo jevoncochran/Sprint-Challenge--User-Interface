@@ -144,3 +144,194 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.navigation {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 17px 29px;
+}
+
+.lambda-logo {
+    margin: 20px 60px -10px 60px;
+}
+
+.home {
+    margin: 20px 60px;
+    color: black;
+}
+
+.about {
+    margin: 20px 60px;
+}
+
+.products {
+    margin: 20px 60px;
+}
+
+.blog {
+    margin: 20px 60px;
+}
+
+.contact {
+    margin: 220px 60px;
+}
+
+.header-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.navigation nav a {
+    color: black;
+    text-decoration: none;
+}
+
+.box1 {
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 {
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3 {
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box4 {
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box5 {
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box6 {
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box7 {
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box8 {
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box9 {
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box10 {
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent-container1 {
+    display: flex;
+    padding: 20px;
+    border-top: 1px dashed black;
+}
+
+.parent-container2 {
+    display: flex;
+}
+
+.about-intro {
+    margin-bottom: 20px;
+}
+
+.child-container {
+    margin: 15px;
+    border-bottom: 1px dashed black;
+}
+
+.four-images {
+    margin-bottom: 10px;
+}
+
+button {
+    border: 3px solid black;
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.closing {
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
